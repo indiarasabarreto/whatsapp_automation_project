@@ -70,7 +70,7 @@ Este MVP pode ser expandido com as seguintes funcionalidades:
 ## Autor
 
 **Indiara dos Santos Sá Barreto**
-*   [GitHub](https://github.com/indiarasabarreto/whatsapp_automation_project.git)
+*   [Workana](https://www.workana.com/freelancer/74f1fac0ceab0961b449dd1f7db3ef0a))
 *   [LinkedIn](https://www.linkedin.com/in/indiara-sa-barreto/)
 
 ## Licença
